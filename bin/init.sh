@@ -9,7 +9,7 @@ cd $BASEDIR
 BASEDIR=$(pwd)
 cd $CURRENT_DIR
 
-echo "Initializing codex.media."
+echo "Initializing codex"
 
 echo -e "Creating .env file for docker... \c"
   # create .env file for docker from sample
